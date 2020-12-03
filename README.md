@@ -4,7 +4,7 @@ This repository provides a shell can compile [RedisDesktopManager](https://githu
 
 Latest version: 2020.5
 
-![screenshots](https://raw.githubusercontent.com/zgr0629/RedisDesktopManager-Mac/master/screenshots.png)
+![screenshots](https://raw.githubusercontent.com/shiyunjin/RDM/master/screenshots.png)
 
 ## Usage
 
@@ -26,7 +26,7 @@ Install python requirements
 pip3 install -r https://raw.githubusercontent.com/uglide/RedisDesktopManager/2020/src/py/requirements.txt --upgrade
 ```
 
-Download latest DMG file from [release](https://github.com/zgr0629/RedisDesktopManager-Mac/releases) page. Load Dmg file and drag .app file to your Application folder and enjoy.
+Download latest DMG file from [release](https://github.com/shiyunjin/RDM/releases) page. Load Dmg file and drag .app file to your Application folder and enjoy.
 
 If you have any questions, please feel free to submit an issue.
 
